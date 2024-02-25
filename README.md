@@ -1,4 +1,4 @@
-![logo]([https://github.com/Ibrahimgit2004/Osama-Ahmed-Ibrahim/blob/main/Github%20Banner.png](https://github.com/Ibrahimgit2004/Ibrahimgit2004/blob/main/Github%20Banner.png))
+![logo](https://github.com/Ibrahimgit2004/Ibrahimgit2004/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Osama Ahmed Ibrahim</h1>
 <h3 align="center">A future Data Engineer from Bangladesh</h3>
 <img align="right" alt="coding"width="400"src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
