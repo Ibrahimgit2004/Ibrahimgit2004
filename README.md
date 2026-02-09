@@ -59,8 +59,7 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahimgit2004&show_icons=true&theme=radical" alt="StatsCard" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimgit2004&layout=compact&theme=radical" alt="LangsCard" width="300" />
+
 </div>
 
 <p align="center">
