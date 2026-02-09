@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Ibrahimgit2004/Ibrahimgit2004/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png" width="100%" alt="Banner" />
+  <img src="https://github.com/Ibrahimgit2004/Ibrahimgit2004/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png?raw=true" width="100%" alt="Banner" />
 
   <br/>
   
@@ -58,20 +58,13 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ibrahimgit2004&show_icons=true&theme=radical&count_private=true" alt="Ibrahimgit2004 Github Stats" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahimgit2004&show_icons=true&theme=radical" alt="StatsCard" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimgit2004&layout=compact&theme=radical" alt="LangsCard" width="300" />
+</div>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimgit2004&layout=compact&theme=radical" alt="Ibrahimgit2004 Top Langs" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahimgit2004&theme=radical" alt="Ibrahimgit2004 Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahimgit2004&theme=radical" alt="StreakCard" />
 </p>
 
 ---
@@ -80,16 +73,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/osama-ahmed-ibrahim-9799342b6/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://facebook.com/profile.php?id=100091378453233" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/o.a.ibrahim_official2004" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://youtube.com/c/osamaahmedibrahim" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
