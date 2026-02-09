@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibrahimgit2004&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Ibrahimgit2004&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="views" />
 </p>
 
 ---
@@ -58,16 +58,21 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimgit2004&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimgit2004&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="170" alt="languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ibrahimgit2004&show_icons=true&theme=radical&count_private=true" alt="Ibrahimgit2004 Github Stats" />
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimgit2004&layout=compact&theme=radical" alt="Ibrahimgit2004 Top Langs" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimgit2004&theme=radical&hide_border=true&background=0d1117" alt="streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahimgit2004&theme=radical" alt="Ibrahimgit2004 Streak" />
+</p>
 
 ---
 
